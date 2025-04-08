@@ -1,0 +1,4 @@
+- Used React to build a user-friendly front-end.
+- Set up Express.js routes to handle to-do items.
+- Integrated MongoDB to store and manage data.
+- Utilized Node.js to handle server-side operations.
